@@ -32,7 +32,7 @@ body {
 	list-style-type: none;
   }
   .book-list li{
-	background: #6d3d6d;
+	background: red;
 	border-radius: 15px;
     padding: 10px 15px;
 	cursor: pointer;
